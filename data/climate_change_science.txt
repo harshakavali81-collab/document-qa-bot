@@ -1,0 +1,68 @@
+Climate Change: The Scientific Basics
+
+What Drives the Greenhouse Effect
+
+The greenhouse effect is a natural process that keeps Earth warm enough to sustain life.
+Sunlight passes through the atmosphere and warms the planet's surface. The surface then
+radiates heat back toward space as infrared radiation. Certain gases in the atmosphere, known
+as greenhouse gases, absorb some of this outgoing radiation and re-emit it in all directions,
+trapping heat near the surface. Carbon dioxide, methane, nitrous oxide, and water vapor are
+the primary greenhouse gases. Without this natural effect, Earth's average temperature would
+be far below freezing. The concern with modern climate change is not the existence of the
+greenhouse effect itself, but the rapid intensification of it caused by human activity.
+
+Human Contributions to Rising Emissions
+
+Since the Industrial Revolution, humans have burned large quantities of fossil fuels for
+energy, releasing carbon dioxide that had been stored underground for millions of years.
+Atmospheric carbon dioxide concentrations have risen from roughly 280 parts per million in
+pre-industrial times to over 420 parts per million today, a level not seen in at least
+800,000 years based on ice core records. Deforestation compounds the problem by removing
+trees that would otherwise absorb carbon dioxide through photosynthesis. Agriculture,
+particularly livestock farming, is a major source of methane, a greenhouse gas that is far
+more potent than carbon dioxide over short time horizons, though it persists in the
+atmosphere for a shorter period.
+
+Observed Effects
+
+Scientific instruments and long-term records show a clear warming trend. Global average
+surface temperature has increased by more than one degree Celsius since the late 1800s, with
+the most rapid warming occurring in the last few decades. This warming has measurable
+consequences: glaciers and polar ice sheets are shrinking, sea levels are rising due to
+thermal expansion of ocean water and melting ice, and extreme weather events such as heat
+waves, heavy rainfall, and droughts are becoming more frequent and intense in many regions.
+Ocean acidification, caused by the ocean absorbing excess atmospheric carbon dioxide, is
+altering marine ecosystems and threatening coral reefs and shellfish populations.
+
+Modeling and Projections
+
+Climate scientists use complex computer models that simulate the interactions between the
+atmosphere, oceans, ice, and land surfaces to project future climate conditions under
+different emissions scenarios. These models are validated against historical data and
+consistently show that continued high emissions would lead to significantly more warming,
+more severe weather extremes, and greater disruption to ecosystems and human societies. The
+Intergovernmental Panel on Climate Change synthesizes this research from thousands of
+scientists worldwide and has concluded that human influence is the dominant cause of observed
+warming since the mid-twentieth century.
+
+Mitigation and Adaptation
+
+Responses to climate change generally fall into two categories. Mitigation refers to efforts
+to reduce greenhouse gas emissions or remove carbon from the atmosphere, including transitioning
+to renewable energy, improving energy efficiency, protecting and restoring forests, and
+developing carbon capture technologies. Adaptation refers to adjusting human systems to cope
+with the effects of climate change that are already occurring or unavoidable, such as building
+sea walls, developing drought-resistant crops, and redesigning infrastructure for more extreme
+weather. Most experts agree that an effective response requires both approaches working
+together, since even aggressive emissions cuts would not immediately halt warming already set
+in motion by past emissions.
+
+Areas of Ongoing Debate
+
+While the core physics of the greenhouse effect and the human role in recent warming are
+well established in the scientific literature, genuine debate continues around the precise
+magnitude of future warming under different scenarios, the most cost-effective mix of
+mitigation policies, and how to fairly distribute the costs of climate action between
+developed and developing nations. These are legitimate areas of scientific and policy
+disagreement, distinct from the basic question of whether human-caused climate change is
+occurring.

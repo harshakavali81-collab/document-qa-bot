@@ -1,0 +1,73 @@
+Renewable Energy Systems: An Overview
+
+Introduction
+
+Renewable energy refers to power generated from natural sources that replenish faster than
+they are consumed. Unlike fossil fuels such as coal, oil, and natural gas, renewable sources
+like sunlight, wind, water, and geothermal heat are effectively inexhaustible on a human
+timescale. Over the past two decades, renewable energy has shifted from a niche
+environmental cause to a mainstream pillar of global energy strategy, driven by falling
+technology costs, climate policy, and energy security concerns.
+
+Solar Power
+
+Solar photovoltaic (PV) technology converts sunlight directly into electricity using
+semiconductor materials, most commonly silicon. When photons strike a PV cell, they excite
+electrons and create a flow of current. Solar panel costs have fallen by more than eighty
+percent since 2010, making it one of the cheapest sources of new electricity generation in
+many regions. Utility-scale solar farms can span thousands of acres, while rooftop solar
+allows individual households and businesses to generate their own power. A key limitation of
+solar is intermittency: panels only generate electricity when the sun is shining, which means
+solar must be paired with storage or a diversified grid to provide reliable power around the
+clock.
+
+Wind Energy
+
+Wind turbines convert the kinetic energy of moving air into electricity through rotating
+blades connected to a generator. Modern turbines are enormous, with blades exceeding eighty
+meters in length, and are installed both onshore and offshore. Offshore wind farms benefit
+from stronger, more consistent wind speeds over open water, though installation and
+maintenance costs are higher due to the marine environment. Wind power, like solar, is
+variable and depends on weather patterns, so grid operators must balance it with other
+generation sources or storage systems.
+
+Hydropower and Geothermal
+
+Hydropower is the oldest and, historically, the largest source of renewable electricity
+worldwide. It works by using the gravitational force of falling or flowing water to spin
+turbines. Large dam projects can provide significant baseload power and flood control, but
+they also raise environmental and social concerns, including habitat disruption and
+displacement of communities. Geothermal energy taps heat from the earth's interior, either
+for direct heating applications or to generate electricity in regions with accessible
+geothermal reservoirs, such as Iceland and parts of the western United States.
+
+Energy Storage and Grid Integration
+
+Because solar and wind are intermittent, energy storage has become a critical companion
+technology. Lithium-ion batteries, the same technology used in electric vehicles, are
+increasingly deployed at grid scale to store excess renewable generation and release it when
+demand is high or generation is low. Other storage approaches include pumped hydro storage,
+which moves water between reservoirs at different elevations, and emerging technologies like
+green hydrogen, which uses renewable electricity to split water into hydrogen and oxygen for
+later use as a fuel or feedstock.
+
+Economic and Policy Considerations
+
+Government policy has played a significant role in renewable energy adoption through
+mechanisms such as feed-in tariffs, tax credits, renewable portfolio standards, and carbon
+pricing. These policies aim to correct market failures where the environmental costs of fossil
+fuels are not reflected in their price. Critics of renewable subsidies argue that markets
+should determine the optimal energy mix without government intervention, while proponents
+argue that the urgency of climate change justifies accelerated public support. As
+manufacturing scales and technology matures, renewables are increasingly competitive on cost
+alone, even without subsidies, in many parts of the world.
+
+Challenges Ahead
+
+Despite rapid growth, renewable energy still faces significant challenges. Grid infrastructure
+in many countries was built for centralized fossil fuel plants and requires substantial
+upgrades to accommodate distributed and variable renewable generation. Mining the raw
+materials for batteries and turbines, such as lithium, cobalt, and rare earth elements, raises
+its own environmental and ethical concerns. Finally, the transition must account for workers
+and communities historically dependent on fossil fuel industries, requiring thoughtful
+economic planning to ensure a just transition to a low-carbon energy system.

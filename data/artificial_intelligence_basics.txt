@@ -1,0 +1,68 @@
+Artificial Intelligence: Core Concepts
+
+Defining Artificial Intelligence
+
+Artificial intelligence, commonly abbreviated as AI, refers to computer systems capable of
+performing tasks that typically require human intelligence, such as understanding language,
+recognizing images, making decisions, and solving problems. The field spans a wide range of
+techniques, from simple rule-based systems to complex neural networks trained on massive
+datasets. It is useful to distinguish between narrow AI, which is designed to perform a
+specific task well, and the hypothetical concept of artificial general intelligence, which
+would match or exceed human cognitive ability across virtually any domain. Nearly all AI
+systems in use today, including voice assistants, recommendation engines, and chatbots, are
+examples of narrow AI.
+
+Machine Learning as the Foundation
+
+Machine learning is the primary approach behind most modern AI systems. Rather than being
+explicitly programmed with rules, machine learning models learn patterns from data. In
+supervised learning, a model is trained on labeled examples, such as photographs tagged with
+the objects they contain, and learns to predict labels for new, unseen data. In unsupervised
+learning, a model finds structure in unlabeled data, such as grouping similar customers
+together based on purchasing behavior. Reinforcement learning trains an agent to make
+sequences of decisions by rewarding desirable outcomes and penalizing undesirable ones, and
+has been used to train systems that play complex games and control robots.
+
+Neural Networks and Deep Learning
+
+Neural networks are computing systems loosely inspired by the structure of the human brain,
+consisting of layers of interconnected nodes, or neurons, that transform input data through
+weighted connections. Deep learning refers to neural networks with many layers, which allows
+them to learn increasingly abstract representations of data. Convolutional neural networks
+are particularly effective at processing images, since they can detect edges, shapes, and
+textures at different layers of abstraction. Recurrent neural networks and, more recently,
+transformer architectures are well suited to sequential data such as text and speech, because
+they can capture relationships between elements that are far apart in a sequence.
+
+The Rise of Large Language Models
+
+Large language models, such as those powering modern chatbots, are transformer-based neural
+networks trained on vast quantities of text to predict the next word in a sequence. Through
+this seemingly simple training objective, applied at massive scale, these models develop the
+ability to answer questions, summarize documents, write code, and carry on conversations.
+After an initial training phase on broad internet text, many language models undergo
+additional fine-tuning using human feedback to make their responses more helpful, accurate,
+and aligned with user intent. A key limitation of language models is that they can generate
+plausible-sounding but factually incorrect statements, a phenomenon often called
+hallucination, which is one of the primary motivations behind retrieval-augmented generation
+techniques that ground model outputs in verified source documents.
+
+Applications Across Industries
+
+AI is now embedded in a wide range of industries. In healthcare, machine learning models
+assist in analyzing medical images and predicting patient outcomes. In finance, AI systems
+detect fraudulent transactions and inform algorithmic trading strategies. In transportation,
+computer vision and sensor fusion enable driver-assistance features and autonomous vehicle
+research. In customer service, conversational AI systems handle routine inquiries, freeing
+human agents to focus on more complex cases.
+
+Risks and Responsible Development
+
+The rapid advancement of AI has raised legitimate concerns about bias in training data
+leading to unfair outcomes, the displacement of certain jobs, privacy implications of
+large-scale data collection, and the potential misuse of generative AI to create
+misinformation. Responsible AI development involves practices such as testing models for
+bias before deployment, being transparent about a system's capabilities and limitations, and
+maintaining human oversight for high-stakes decisions. Many organizations and governments are
+now developing frameworks and regulations intended to ensure AI systems are developed and
+deployed safely and ethically as their capabilities continue to grow.
