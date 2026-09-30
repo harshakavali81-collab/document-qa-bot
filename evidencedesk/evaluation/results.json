@@ -1,0 +1,252 @@
+{
+  "mode": "lexical retrieval only; no LLM or semantic model evaluated",
+  "dataset": "authored synthetic fixtures; not held-out; thresholds not calibrated for real documents",
+  "n": 30,
+  "answerable_n": 25,
+  "unanswerable_n": 5,
+  "evidence_hit_rate_at_3": 0.92,
+  "unanswerable_abstention_rate": 0.6,
+  "mean_retrieval_ms": 0.69,
+  "rows": [
+    {
+      "question": "How many annual leave days are available?",
+      "source": "people_policy.txt",
+      "evidence": "18 annual leave",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 1.045
+    },
+    {
+      "question": "How much unused annual leave can I carry forward?",
+      "source": "people_policy.txt",
+      "evidence": "up to 5 days",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.776
+    },
+    {
+      "question": "Who approves annual leave requests?",
+      "source": "people_policy.txt",
+      "evidence": "Managers approve",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.389
+    },
+    {
+      "question": "How many sick leave days do employees get?",
+      "source": "people_policy.txt",
+      "evidence": "10 sick leave",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.406
+    },
+    {
+      "question": "When is a medical certificate required?",
+      "source": "people_policy.txt",
+      "evidence": "3 consecutive",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.524
+    },
+    {
+      "question": "How many remote work days are allowed?",
+      "source": "people_policy.txt",
+      "evidence": "2 days per week",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.479
+    },
+    {
+      "question": "When should remote work requests be submitted?",
+      "source": "people_policy.txt",
+      "evidence": "Friday",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.34
+    },
+    {
+      "question": "How long is probation?",
+      "source": "people_policy.txt",
+      "evidence": "6 months",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.954
+    },
+    {
+      "question": "What is the annual learning budget?",
+      "source": "people_policy.txt",
+      "evidence": "15,000",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.333
+    },
+    {
+      "question": "When must travel expense claims be submitted?",
+      "source": "people_policy.txt",
+      "evidence": "30 days",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 1.132
+    },
+    {
+      "question": "What are standard working hours?",
+      "source": "people_policy.txt",
+      "evidence": "9:30 AM",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.54
+    },
+    {
+      "question": "When should security incidents be reported?",
+      "source": "security_policy.txt",
+      "evidence": "1 hour",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.88
+    },
+    {
+      "question": "What is the minimum password length?",
+      "source": "security_policy.txt",
+      "evidence": "14 characters",
+      "evidence_hit_at_3": false,
+      "abstained": true,
+      "milliseconds": 0.307
+    },
+    {
+      "question": "Is multi-factor authentication required?",
+      "source": "security_policy.txt",
+      "evidence": "all company accounts",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.314
+    },
+    {
+      "question": "How are customer records classified?",
+      "source": "security_policy.txt",
+      "evidence": "confidential",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 1.492
+    },
+    {
+      "question": "What happens after a company laptop is lost?",
+      "source": "security_policy.txt",
+      "evidence": "remote device locking",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.424
+    },
+    {
+      "question": "How often are production databases backed up?",
+      "source": "security_policy.txt",
+      "evidence": "daily",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 1.111
+    },
+    {
+      "question": "How long are backups retained?",
+      "source": "security_policy.txt",
+      "evidence": "30 days",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.428
+    },
+    {
+      "question": "How often are access reviews conducted?",
+      "source": "security_policy.txt",
+      "evidence": "every quarter",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.928
+    },
+    {
+      "question": "How many workspaces does the Free plan support?",
+      "source": "product_guide.txt",
+      "evidence": "3 workspaces",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.911
+    },
+    {
+      "question": "How much does the Pro plan cost?",
+      "source": "product_guide.txt",
+      "evidence": "499",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.374
+    },
+    {
+      "question": "What is included in the Business plan?",
+      "source": "product_guide.txt",
+      "evidence": "single sign-on",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 1.687
+    },
+    {
+      "question": "Which note export formats are available?",
+      "source": "product_guide.txt",
+      "evidence": "Markdown or PDF",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.363
+    },
+    {
+      "question": "How long can deleted notes be restored?",
+      "source": "product_guide.txt",
+      "evidence": "30 days",
+      "evidence_hit_at_3": true,
+      "abstained": false,
+      "milliseconds": 0.48
+    },
+    {
+      "question": "How do I cancel my subscription?",
+      "source": "product_guide.txt",
+      "evidence": "Billing settings",
+      "evidence_hit_at_3": false,
+      "abstained": true,
+      "milliseconds": 0.328
+    },
+    {
+      "question": "What is the orbital velocity of Neptune?",
+      "source": null,
+      "evidence": null,
+      "evidence_hit_at_3": null,
+      "abstained": true,
+      "milliseconds": 0.249
+    },
+    {
+      "question": "Who won the football World Cup in 2018?",
+      "source": null,
+      "evidence": null,
+      "evidence_hit_at_3": null,
+      "abstained": true,
+      "milliseconds": 1.138
+    },
+    {
+      "question": "What is the CEO salary?",
+      "source": null,
+      "evidence": null,
+      "evidence_hit_at_3": null,
+      "abstained": true,
+      "milliseconds": 0.462
+    },
+    {
+      "question": "Does the company pay overtime?",
+      "source": null,
+      "evidence": null,
+      "evidence_hit_at_3": null,
+      "abstained": false,
+      "milliseconds": 0.472
+    },
+    {
+      "question": "Are interns eligible for paid parental leave?",
+      "source": null,
+      "evidence": null,
+      "evidence_hit_at_3": null,
+      "abstained": false,
+      "milliseconds": 1.44
+    }
+  ]
+}

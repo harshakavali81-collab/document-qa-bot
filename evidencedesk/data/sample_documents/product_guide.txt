@@ -1,0 +1,13 @@
+FICTIONAL DEMO ONLY. Atlas Notes is an invented product for retrieval testing.
+
+Free plan: The Free plan supports 3 workspaces and 500 notes. It includes community support.
+
+Pro plan: The Pro plan costs INR 499 per user per month. It supports 20 workspaces and unlimited notes. Email support is included.
+
+Business plan: The Business plan costs INR 999 per user per month. It includes single sign-on and audit logs. Business support has a target first response time of 4 business hours.
+
+Exports: Users can export notes as Markdown or PDF files. Workspace administrators can export all workspace notes from Settings, then Export.
+
+Deleted notes: Deleted notes remain in the trash for 30 days. Workspace administrators can restore notes during this period. After 30 days, deleted notes cannot be restored.
+
+Cancellation: Subscriptions can be cancelled from Billing settings. Access continues until the end of the current paid billing period.

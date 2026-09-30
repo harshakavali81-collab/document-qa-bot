@@ -1,0 +1,15 @@
+FICTIONAL DEMO ONLY. Example company: Cedar Labs. These policies are invented for this portfolio project.
+
+Annual leave: Employees receive 18 annual leave days per calendar year. Unused annual leave may be carried forward up to 5 days. Managers approve leave requests through the employee portal.
+
+Sick leave: Employees receive 10 sick leave days each year. A medical certificate is required for absences longer than 3 consecutive working days.
+
+Remote work: Eligible employees may work remotely up to 2 days per week with manager approval. Remote work requests must be submitted by Friday for the following week.
+
+Probation: The probation period is 6 months. Managers complete a review before the probation period ends.
+
+Learning budget: Each employee has an annual learning budget of INR 15,000. Courses require manager approval before purchase.
+
+Travel expenses: Employees must submit travel expense claims within 30 days of completing a business trip. Receipts are required for reimbursement.
+
+Working hours: Standard working hours are 9:30 AM to 6:30 PM, Monday through Friday, with a one-hour lunch break.

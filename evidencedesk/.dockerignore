@@ -1,0 +1,8 @@
+.git
+.env
+.env.*
+.venv
+.local_index
+__pycache__
+.pytest_cache
+uploads

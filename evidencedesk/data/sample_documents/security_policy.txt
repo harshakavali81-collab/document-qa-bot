@@ -1,0 +1,13 @@
+FICTIONAL DEMO ONLY. Example company: Cedar Labs. These policies are invented for testing.
+
+Security incidents: Report suspected security incidents to the security team within 1 hour of discovery. Do not delete evidence or investigate the incident independently.
+
+Account security: Multi-factor authentication is required for all company accounts. Passwords must contain at least 14 characters. Never share passwords with coworkers.
+
+Data classification: Customer records are classified as confidential. Confidential data must not be uploaded to public AI tools without written approval from the data owner.
+
+Device loss: Immediately report a lost company laptop to the IT help desk. IT will revoke active sessions and initiate remote device locking.
+
+Backups: Production databases are backed up daily. Backups are retained for 30 days and restoration is tested monthly.
+
+Access reviews: Department managers review system access every quarter. Access for departing employees must be removed on their last working day.

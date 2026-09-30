@@ -1,0 +1,9 @@
+EVIDENCEDESK — DOCUMENT Q&A PROJECT
+
+1. Extract the ZIP and open rag-knowledge-assistant in VS Code.
+2. Open README.md and follow the Windows quick start.
+3. Build the sample knowledge base, then ask about annual leave.
+4. Read docs/PROJECT_REPORT.md for actual results and limitations.
+5. Follow docs/GITHUB_AND_DEPLOYMENT.md to publish your repository.
+
+No API key is needed for the default excerpt demo. Semantic mode needs an optional model download; AI generation needs your Groq API key and model ID. These optional online paths were not tested live. See docs/GITHUB_AND_DEPLOYMENT.md for the GitHub destination. Public deployment is not included.
